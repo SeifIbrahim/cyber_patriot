@@ -1,0 +1,5 @@
+
+  sudo sed -i '/^HostbasedAuthentication/ c\HostbasedAuthentication no' /etc/ssh/sshd_config
+  HostbasedAuthentication yes
+  jafsldkjf no
+  alkejf fsldkfj
